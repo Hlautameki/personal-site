@@ -1,5 +1,5 @@
 <template>
-  <q-layout view="lHh Lpr lFf">
+  <q-layout view="hHh Lpr lFf">
     <q-header elevated>
       <q-toolbar>
         <q-btn
@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Mateusz Mistecki
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
