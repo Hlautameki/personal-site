@@ -12,7 +12,13 @@
         />
 
         <q-toolbar-title>
-          Mateusz Mistecki
+          <q-btn
+            flat
+            label="Mateusz Mistecki"
+            no-caps
+            style="font-size: 21px; font-weight: normal"
+            to="/"
+          />
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
