@@ -26,6 +26,7 @@
     </q-header>
 
     <q-drawer
+      v-if="false"
       v-model="leftDrawerOpen"
       show-if-above
       bordered
