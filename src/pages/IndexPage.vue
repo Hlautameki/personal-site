@@ -20,7 +20,7 @@
       <q-card-section class="flex justify-center">
         <div
           class="text-weight-medium"
-          :class="$q.screen.lt.sm ? 'text-h4' : 'text-h2'"
+          :class="$q.screen.lt.sm ? 'text-h3' : 'text-h2'"
         >
           Hi, I'm Mateusz
         </div>
