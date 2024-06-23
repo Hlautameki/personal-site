@@ -18,7 +18,12 @@
         </q-avatar>
       </q-card-section>
       <q-card-section class="flex justify-center">
-        <div class="text-h2 text-weight-medium">Hi, I'm Mateusz</div>
+        <div
+          class="text-weight-medium"
+          :class="$q.screen.lt.sm ? 'text-h4' : 'text-h2'"
+        >
+          Hi, I'm Mateusz
+        </div>
       </q-card-section>
       <q-card-section class="text-grey-4 flex justify-center q-pt-none">
         <div class="text-weight-light" style="font-size: 1.4rem">I'm full stack software developer</div>
@@ -31,4 +36,9 @@
 defineOptions({
   name: 'IndexPage'
 });
+
+import { useQuasar} from "quasar"
+
+const $q = useQuasar();
+
 </script>
