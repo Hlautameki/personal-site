@@ -20,8 +20,8 @@
       <q-card-section class="flex justify-center">
         <div class="text-h2 text-weight-medium">Hi, I'm Mateusz</div>
       </q-card-section>
-      <q-card-section class="text-grey-4">
-        <div class="" style="font-size: 1.3rem">I write about building profitable indie products as a developer</div>
+      <q-card-section class="text-grey-4 flex justify-center">
+        <div class="text-weight-light" style="font-size: 1.4rem">I'm full stack software developer</div>
       </q-card-section>
     </q-card>
   </q-page>
