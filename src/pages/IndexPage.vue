@@ -28,6 +28,11 @@
       <q-card-section class="text-grey-4 flex justify-center q-pt-none">
         <div class="text-weight-light" style="font-size: 1.4rem">I'm full stack software developer</div>
       </q-card-section>
+      <q-card-section>
+        <q-avatar class="bg-white">
+          <q-icon class="text-black" name="fa-brands fa-twitter"/>
+        </q-avatar>
+      </q-card-section>
     </q-card>
   </q-page>
 </template>
