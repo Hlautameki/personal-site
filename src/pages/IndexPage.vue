@@ -28,10 +28,19 @@
       <q-card-section class="text-grey-4 flex justify-center q-pt-none">
         <div class="text-weight-light" style="font-size: 1.4rem">I'm full stack software developer</div>
       </q-card-section>
-      <q-card-section>
-        <q-avatar class="bg-white">
+      <q-card-section class="flex justify-center q-gutter-md">
+        <q-btn round color="white" href="http://www.google.com" target="_blank" size="md">
+          <q-icon class="text-black" name="fa-brands fa-linkedin" />
+        </q-btn>
+        <q-btn round color="white" href="http://www.google.com" target="_blank" size="md">
+          <q-icon class="text-black" name="fas fa-envelope"/>
+        </q-btn>
+        <q-btn round color="white" href="http://www.google.com" target="_blank" size="md">
+          <q-icon class="text-black" name="fa-brands fa-facebook"/>
+        </q-btn>
+        <q-btn round color="white" href="http://www.google.com" target="_blank" size="md">
           <q-icon class="text-black" name="fa-brands fa-twitter"/>
-        </q-avatar>
+        </q-btn>
       </q-card-section>
     </q-card>
   </q-page>
