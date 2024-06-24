@@ -29,16 +29,16 @@
         <div class="text-weight-light" style="font-size: 1.4rem">I'm full stack software developer</div>
       </q-card-section>
       <q-card-section class="flex justify-center q-gutter-md">
-        <q-btn round color="white" href="http://www.google.com" target="_blank" size="md">
+        <q-btn round color="white" href="https://www.linkedin.com/in/mateusz-mistecki-b46a8325/" target="_blank" size="md">
           <q-icon class="text-black" name="fa-brands fa-linkedin" />
         </q-btn>
-        <q-btn round color="white" href="http://www.google.com" target="_blank" size="md">
+        <q-btn round color="white" href="mailto:mateusz.mistecki@gmail.com" target="_blank" size="md">
           <q-icon class="text-black" name="fas fa-envelope"/>
         </q-btn>
-        <q-btn round color="white" href="http://www.google.com" target="_blank" size="md">
+        <q-btn round color="white" href="https://www.facebook.com/mateusz.mistecki.5" target="_blank" size="md">
           <q-icon class="text-black" name="fa-brands fa-facebook"/>
         </q-btn>
-        <q-btn round color="white" href="http://www.google.com" target="_blank" size="md">
+        <q-btn round color="white" href="https://x.com/MateuszMistecki" target="_blank" size="md">
           <q-icon class="text-black" name="fa-brands fa-twitter"/>
         </q-btn>
       </q-card-section>
